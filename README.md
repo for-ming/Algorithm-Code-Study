@@ -1,5 +1,5 @@
 # Algorithm-Code-Study 📄 <br>
-Java 언어 기반 코딩테스트 준비 및 알고리즘 공부 ◝(⑅•ᴗ•⑅)◜..°♡ <br>
+Java 기반 코딩테스트 준비 및 알고리즘 공부 ◝(⑅•ᴗ•⑅)◜..°♡ <br>
 #BOJ #프로그래머스 <br><br>
 
 <details markdown="1">
