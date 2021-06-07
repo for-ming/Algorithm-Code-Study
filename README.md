@@ -3,26 +3,26 @@ Java 기반 코딩테스트 준비 및 알고리즘 공부 ◝(⑅•ᴗ•⑅)�
 #BOJ #프로그래머스 <br><br>
 
 <details markdown="1">
-<summary><strong> BOJ 백준 </strong></summary>
-단계별로 풀어보기 https://www.acmicpc.net/step <br>
-삼성 SW 역량 테스트 기출 문제 https://www.acmicpc.net/workbook/view/1152 <br>
+<summary><strong> ### BOJ 백준 </strong></summary>
+[단계별로 풀어보기](https://www.acmicpc.net/step)<br>
+[삼성 SW 역량 테스트 기출 문제](https://www.acmicpc.net/workbook/view/1152)<br>
 </details>
 
 <details markdown="1">
-<summary><strong> SW Expert Academy SW 역량테스트 </strong></summary>
-모의 SW 역량테스트 https://swexpertacademy.com/main/main.do <br>
+<summary><strong> ### SW Expert Academy SW 역량테스트 </strong></summary>
+[모의 SW 역량테스트](https://swexpertacademy.com/main/main.do)<br>
 </details>
 
 <details markdown="1">
-<summary><strong> 프로그래머스 </strong></summary>
-코딩테스트 고득점 Kit https://programmers.co.kr/learn/challenges <br>
+<summary><strong> ### 프로그래머스 </strong></summary>
+[코딩테스트 고득점 Kit](https://programmers.co.kr/learn/challenges)<br>
 </details>
 
 <details markdown="1">
-<summary><strong> 알고리즘 </strong></summary>
+<summary><strong> ### 알고리즘 </strong></summary>
 <br>
 <details markdown="1">
-<summary>브루트 포스</summary>
+<summary> :pencil2:브루트 포스</summary>
 16968번 - 차량 번호판 1<br>
 16917번 - 양념 반 후라이드 반<br>
 16922번 - 로마 숫자 만들기<br>
@@ -66,14 +66,14 @@ Java 기반 코딩테스트 준비 및 알고리즘 공부 ◝(⑅•ᴗ•⑅)�
 </details>
 
 <details markdown="1">
-<summary>그래프 알고리즘</summary>
+<summary>:pencil2:그래프 알고리즘</summary>
 2252번 - 줄 세우기<br>
 2056번 - 작업<br>
 14263번 - 카드 놓기<br>
 </details>
 
 <details markdown="1">
-<summary>BFS 알고리즘</summary>
+<summary>:pencil2:BFS 알고리즘</summary>
 8111번 - 0과 1<br>
 17071번 - 숨바꼭질 5<br>
 16973번 - 직사각형 탈출<br>
@@ -89,7 +89,7 @@ Java 기반 코딩테스트 준비 및 알고리즘 공부 ◝(⑅•ᴗ•⑅)�
 </details>
 
 <details markdown="1">
-<summary>다이나믹 프로그래밍</summary>
+<summary>:pencil2:다이나믹 프로그래밍</summary>
 1695번 - 팰린드롬 만들기<br>
 11049번 - 행렬 곱셈 순서<br>
 12969번 - ABC<br>
@@ -107,7 +107,7 @@ Java 기반 코딩테스트 준비 및 알고리즘 공부 ◝(⑅•ᴗ•⑅)�
 </details>
 
 <details markdown="1">
-<summary>시뮬레이션과 구현</summary>
+<summary>:pencil2:시뮬레이션과 구현</summary>
 1913번 - 달팽이<br>
 1952번 - 달팽이2<br>
 1959번 - 달팽이3<br>
