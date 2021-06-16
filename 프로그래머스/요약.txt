@@ -1,0 +1,15 @@
+
+
+import java.util.*;
+
+
+
+
+list.add();
+list.get();
+list.contains();
+
+
+String.substring(start); //문자열  start위치부터 끝까지 문자열 자르기
+String.substring(start,end); //문자열  start위치 부터 end전까지 문자열 자르기
+String[] array = String.split("기준문자");
