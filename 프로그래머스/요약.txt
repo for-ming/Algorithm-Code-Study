@@ -7,10 +7,32 @@ import java.util.*;
 
 list.add();
 list.get();
+list.remove();
 list.contains();
 
+Collections.sort(list);
+Collections.reverseOrder(); //내림차순
+Arrays.sort(array);
+Arrays.sort(array, Collections.reverseOrder());
+
+List -> Array
+arrayList.toArray(list);
+
+Array -> List
+Arrays.asList(array);
 
 String.substring(start); //문자열  start위치부터 끝까지 문자열 자르기
 String.substring(start,end); //문자열  start위치 부터 end전까지 문자열 자르기
 String[] array = String.split("기준문자");
 
+string.split("");
+string.charAt(i);
+
+
+우선순위큐
+
+PriorityQueue<Integer> queue = new PriorityQueue<>(); // 오름차순 PriorityQueue<Integer> priorityQueue = new PriorityQueue<>Collections.reverseOrder()); // 내림차순 정렬
+queue.peek();
+queue.size();
+queue.offer();
+queue.poll();
